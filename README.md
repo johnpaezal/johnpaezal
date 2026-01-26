@@ -1,4 +1,4 @@
-
+<!--
 # Hola, soy John! 👋🏼
 
 ### Sobre mi
@@ -41,7 +41,7 @@ Mis hobbits incluyen practicar deportes, tocar instrumentos, crear manualidades 
   Connect with me professionally on LinkedIn.
 
 
-
+-->
 <!--
 **johnpaezal/johnpaezal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
